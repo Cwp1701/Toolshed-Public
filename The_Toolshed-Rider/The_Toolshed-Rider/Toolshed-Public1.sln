@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Toolshed-Rider", "The_Toolshed-Rider\The_Toolshed-Rider.csproj", "{98B6B050-B747-4194-A454-DB90EBFC0BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B6B050-B747-4194-A454-DB90EBFC0BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B6B050-B747-4194-A454-DB90EBFC0BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B6B050-B747-4194-A454-DB90EBFC0BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B6B050-B747-4194-A454-DB90EBFC0BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
